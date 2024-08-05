@@ -13,7 +13,7 @@ app.use(bodyParser.json());
 const corsOptions = {
   origin: [
     'http://localhost:3000', 
-    'https://66b0d6f61a567ef50ae3859d--splendid-cucurucho-01c323.netlify.app' 
+    'https://food-order-0722.netlify.app' 
   ],
   methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
   credentials: true,
